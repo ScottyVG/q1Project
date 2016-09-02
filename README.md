@@ -1,6 +1,6 @@
 # q1Project
 
-drMario is my personal project to practice material taught during Galvanize quarter 1 web development immersive program. This project will attempt to recreate the original nes videogame in a browser.
+Tetris & Dr. Mario are my personal projects to practice material taught during Galvanize quarter 1 web development immersive program. This project will attempt to recreate original nes videogames in a browser.
 
 This project will be built with HTML, CSS, JavaScript, phaser.io, webGL & Canvas.
 
